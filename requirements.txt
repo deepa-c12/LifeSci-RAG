@@ -1,0 +1,14 @@
+faiss-cpu==1.12.0
+sentence-transformers==5.1.0
+transformers==4.56.0
+torch>=2.2.0
+numpy>=1.26.0
+rank-bm25==0.2.2
+llama-cpp-python==0.3.16
+huggingface-hub>=0.34.4
+scikit-learn>=1.7.0
+scipy>=1.13.0
+tqdm>=4.67.0
+requests>=2.32.0
+safetensors>=0.6.0
+tokenizers>=0.22.0
